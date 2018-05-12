@@ -16,6 +16,8 @@ creator:
 description: 'Alfieri, the poet; Manzoni, the man of letters: Gioberti, the philosopher:
   Manin, the "Father of Venice"; Mazzini, the prophet: Cavour, the statesman; Garibaldi,
   the crusader: Victor Emmanuel, the King.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43607#Builders-of-United-Italy
 gutenberg_bookshelf: Italy
 gutenberg_issued: '2013-08-31'
 gutenberg_type: Text
