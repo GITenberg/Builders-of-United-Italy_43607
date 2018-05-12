@@ -1,0 +1,44 @@
+_repo: Builders-of-United-Italy_43607
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43607-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Holland, Rupert Sargent
+    aliases:
+    - Holland, R. S. (Rupert Sargent)
+    - Holland, Rupert S. (Rupert Sargent)
+    birthdate: 1878
+    deathdate: 1952
+    gutenberg_agent_id: '26423'
+    url: http://www.gutenberg.org/2009/agents/26423
+description: 'Alfieri, the poet; Manzoni, the man of letters: Gioberti, the philosopher:
+  Manin, the "Father of Venice"; Mazzini, the prophet: Cavour, the statesman; Garibaldi,
+  the crusader: Victor Emmanuel, the King.'
+gutenberg_bookshelf: Italy
+gutenberg_issued: '2013-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43607'
+  lccn: 08024568
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- History -- 1849-1870'
+- !lcsh 'Manin, Daniele, 1804-1857'
+- !lcsh 'Victor Emmanuel II, King of Italy, 1820-1878'
+- !lcsh 'Garibaldi, Giuseppe, 1807-1882'
+- !lcsh 'Manzoni, Alessandro, 1785-1873'
+- !lcsh 'Cavour, Camillo Benso, conte di, 1810-1861'
+- !lcc 'DG'
+- !lcsh 'Gioberti, Vincenzo, 1801-1852'
+- !lcsh 'Alfieri, Vittorio, 1749-1803'
+- !lcsh 'Mazzini, Giuseppe, 1805-1872'
+tableOfContents: Alfieri, the poet -- Manzoni, the man of letters -- Gioberti, the
+  philosopher -- Manin, the "father of Venice" -- Mazzini, the prophet -- Cavour,
+  the statesman -- Garibaldi, the crusader -- Victor Emmanuel, the king.
+title: Builders of United Italy
+url: http://www.gutenberg.org/ebooks/43607
